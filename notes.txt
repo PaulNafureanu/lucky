@@ -1,0 +1,9 @@
+TopLuckAverage (Low 10): 73.5933288002745
+TopLuckAverage (Low Avg 25): 82.35269497166017
+TopLuckAverage (Mid Avg 50): 87.71783647559941
+TopLuckAverage (Top Avg 75): 90.49409229301337
+TopLuckAverage (ALL 100): 92.3929974099704
+TopScoreAverage (ALL 100): 96.01837100870317
+
+Good Luck (def. over 90/100) is only 1 in 10 tries.
+And when good luck (1 in 10) is combined with top skills (def. over 95/100) then the outcome is almost certain.
